@@ -23,7 +23,6 @@ municipios =[]
 for dato in datos:
     municipios.append(dato[0])
 #Variables globales:
-#color= 'royalblue3'
 color='black'
 wb=100
 hb=30
