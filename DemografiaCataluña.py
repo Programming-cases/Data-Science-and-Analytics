@@ -156,7 +156,7 @@ style.configure("TButton", font=Sys14)
 #Boton Salida:
 b1=ttk.Button(w,text='Salir',command= root.destroy, style="TButton" )
 b1.place(x=4*ancho//10,y=16*altura//20,width=wb,height=hb)
-#Boton de Calculo:
+#Boton de Cálculo:
 b2=ttk.Button(w,text='Consultar',command= graficar, style="TButton")
 b2.place(x=4*ancho//10,y=9*altura//20,width=wb,height=hb)
 #Buscador de municipios:
