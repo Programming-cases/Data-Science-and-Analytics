@@ -34,7 +34,6 @@ col=['red','blue']
 #Buscador de municipios:
 def buscador():
     listbox.delete(0,tk.END)
-    #e.config(text="")
     termino= e.get()
     lista=[]
     for municipio in municipios:
