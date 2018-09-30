@@ -48,7 +48,7 @@ def buscador():
         for item in lista:
             listbox.insert(tk.END,item)
     e.delete(0,tk.END)
-#Coge el municipio clikado:
+#Coge el municipio clickado:
 def CurSelect(evt):
     labelesp.config(text='¡Tarda unos segundos!')
     global municipio
