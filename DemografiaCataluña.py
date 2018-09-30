@@ -110,7 +110,7 @@ ancho=root.winfo_screenwidth()
 altura=root.winfo_screenheight()
 strink= '{}x{}'.format(ancho,altura)
 root.geometry(strink)
-root.title('Demografia de los municipios de Catalunya 2017')
+root.title('Demografía de los municipios de Catalunya 2017')
 
 ####################CANVAS:##############################
 w=tk.Canvas(root,bg= color,width= ancho,height= altura)
