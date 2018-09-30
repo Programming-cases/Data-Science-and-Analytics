@@ -1,4 +1,4 @@
-#Deben descargar primero el archivo "DemografiaCat2017" en SQLite: 
+#Deben descargar primero el archivo "DemografiaCat2017" que está en formato SQLite: 
 ############################IMPORTANDO LIBRERIAS##################
 #Entornos del tkinter:
 import tkinter as tk
