@@ -1,2 +1,2 @@
 # Juan-Pablo-Delzo
-Some new cases in data analysis
+Some new cases of data analysis
