@@ -1,4 +1,5 @@
-#Deben descargar primero el archivo: "DemografiaCat2017.sqlite" en: 
+#El programa está construido en Python3
+#Deben descargar primero la database en formato SQLite en: 
 https://github.com/DataAnalysisCases/Juan-Pablo-Delzo/blob/master/DemografiaCat2017.sqlite
 
 ############################IMPORTANDO LIBRERIAS##################
