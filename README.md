@@ -1,3 +1,4 @@
 # Welcome to my page
-![ ]('data analysis photo.png')
+
+![](data analysis photo.png)
 
