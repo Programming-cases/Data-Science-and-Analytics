@@ -1,3 +1,3 @@
 # Welcome to my page
-![](data analysis photo.jpg)
+![](data analysis photo.png)
 
