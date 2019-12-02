@@ -1,4 +1,4 @@
 ## Welcome to my page
-<img src=data_analysis.png width="400"> 
+<img src=analisis de datos.png width="400"> 
 
 
