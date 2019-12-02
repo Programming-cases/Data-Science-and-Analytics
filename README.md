@@ -1,4 +1,4 @@
 ## Welcome to my page
-<img src=data_analysis.png width="300" align="center">
+<center> <img src=data_analysis.png width="300"> </center>
 
 
