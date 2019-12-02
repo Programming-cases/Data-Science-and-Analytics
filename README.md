@@ -1,4 +1,4 @@
 ## Welcome to my page
 
-![](data_analysis.png | width=100)
+![](data_analysis.png= 250x250)
 
