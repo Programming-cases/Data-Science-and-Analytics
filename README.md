@@ -1,4 +1,4 @@
-# Welcome to my page
-<img src=logo.png width="1000" heigth= "50"> 
+## Welcome to my page
+<img src=logo.png width="800" heigth= "50"> 
 
 
