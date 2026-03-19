@@ -104,11 +104,14 @@ pip install mysql-connector-python pandas
 
 ## 🚀 Instalación
 
-### Paso 1: Clona el repositorio
+### Paso 1: Clona la carpeta
 
 ```bash
-git clone https://github.com/Programming-cases/Data-Science-and-Analytics/`Accidentes de tránsito en Barcelona`.git
-
+git init
+git remote add origin https://github.com/Programming-cases/Data-Science-and-Analytics.git
+git config core.sparse Checkout true
+git sparse-checkout set 'Accidentes de tránsito en Barcelona'
+git pull origin master
 ```
 
 ### Paso 2: Verifica que tienes los archivos CSV
