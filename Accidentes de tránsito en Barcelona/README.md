@@ -107,11 +107,9 @@ pip install mysql-connector-python pandas
 ### Paso 1: Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ProyectoSQL.git
-cd ProyectoSQL
-```
+git clone https://github.com/Programming-cases/Data-Science-and-Analytics/`Accidentes de tránsito en Barcelona`.git
 
-> 💡 **Nota:** Reemplaza `tu-usuario` con tu nombre de usuario de GitHub.
+```
 
 ### Paso 2: Verifica que tienes los archivos CSV
 
@@ -653,23 +651,10 @@ Puedes modificar:
 - Pandas 2.0
 - mysql-connector-python
 
-
 ---
 
-## 🎉 ¡Listo para Empezar!
+### ⭐ ¿Te gustó el proyecto?
 
-Ahora que conoces todo sobre el proyecto, simplemente ejecuta:
-
-```bash
-.\run_all.bat
-```
-
-Y observa cómo se procesa toda la información de accidentes de Barcelona. 🚗💨
-
----
-
-### ⭐ Si te gustó el proyecto
-
-Si este proyecto te resultó útil, considera darle una ⭐ en GitHub. ¡Gracias!
+Si te resultó útil, considera darle una ⭐ en GitHub. ¡Gracias!
 
 ---
