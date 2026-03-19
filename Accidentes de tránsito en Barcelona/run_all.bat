@@ -1,7 +1,7 @@
 @echo off
 REM Script para ejecutar todos los programas Python del proyecto AccidentesBCN en orden
-REM Autor: Sistema de análisis de accidentes de Barcelona
-REM Fecha: 2026
+REM Autor: Juan Pablo Delzo
+REM Fecha: Marzo 2026
 
 echo ============================================================================
 echo Proyecto AccidentesBCN - Ejecucion completa del pipeline
