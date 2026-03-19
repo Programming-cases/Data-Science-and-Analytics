@@ -171,7 +171,7 @@ run_all.bat
 
 ### Opción 2: Ejecutar Scripts Individualmente
 
-Si prefieres ejecutar paso por paso:
+Si prefieres ejecutar paso a paso:
 
 ```bash
 # Paso 1: Crear esquema
