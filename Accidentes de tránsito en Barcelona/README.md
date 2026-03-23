@@ -650,7 +650,7 @@ Puedes modificar:
 **Tecnologías utilizadas:**
 
 - Python 3.12
-- MySQL 8.0 / MariaDB
+- MySQL 8.0 
 - Pandas 2.0
 - mysql-connector-python
 
