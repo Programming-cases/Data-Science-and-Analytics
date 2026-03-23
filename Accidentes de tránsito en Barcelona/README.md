@@ -658,6 +658,6 @@ Puedes modificar:
 
 ### ⭐ ¿Te gustó el proyecto?
 
-Si te resultó útil, considera darle una ⭐ en GitHub. ¡Gracias!
+Por favor, dame una ⭐ en GitHub. ¡Gracias!
 
 ---
