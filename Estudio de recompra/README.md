@@ -1,4 +1,4 @@
-# Estudio de Recompra - Online Retail II
+# Estudio de Recompra - Online Retail 
 
 El proyecto analiza datos de ventas online para entender el comportamiento de los clientes y predecir quiénes volverán a comprar.
 
